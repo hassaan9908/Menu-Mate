@@ -1,0 +1,216 @@
+#title{
+    background-color: #2471A3;
+   
+    padding-top: 5%;
+    padding-left: 6%;
+    padding-right: 6%;
+    padding-bottom: 0px;
+   
+
+}
+
+#titleisb{
+    background-color: #2471A3;
+    padding-top: 5%;
+    padding-left: 6%;
+    padding-right: 6%;
+    padding-bottom: 5px;
+}
+#titlerwp{
+    background-color: #2471A3;
+    padding-top: 5%;
+    padding-left: 6%;
+    padding-right: 6%;
+    padding-bottom: 5px;
+}
+.title-pic{
+    margin-top: 10%;
+    width: 480px;
+}
+.container-fluid{
+    padding: 0% 5% 0%;
+}
+h1{
+    font-family: "Montserrat-Bold", sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+    color: white;
+    margin-top: 40px;
+    width: 100%;
+    margin-left: 20px;
+}
+#features{
+    background-color: white;
+    padding: 6% 10%;
+    text-align: center;
+}
+.hygenic{
+    text-align: center;
+    padding: 5%;
+}
+.icon{
+    color: #c1121f;
+    margin-bottom: 15px;
+}
+.icon:hover{
+    color: #9e2a2b;
+}
+
+#pricing{
+    background-color: #5499C7;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-bottom: 50px;
+   
+    text-align: center;
+    
+    
+
+}
+.pricing-colomn{
+    padding: 2% 3%;
+    
+    
+    
+}
+.card-header{
+    background-color: #1A5276;
+    color: #EAF2F8;
+    
+}
+table{
+    border-color: black;
+    
+}
+
+
+.top-button{
+    margin-left: 20px;
+    margin-top: 25px;
+}
+.copyright{
+    text-align: center;
+    padding: 2%;
+}
+.discover{
+    background-color: #2471A3;
+    text-align: center;
+    padding: 1% 10%;
+}
+.contact{
+    margin-top: 20px;
+}
+#testimonials{
+    background-color: #5499C7;
+    text-align: center;
+    padding: 8% 10%;
+    
+
+}
+.card-body{
+    color: #2C3E50;
+    background-color: #EAF2F8;
+}
+.testimonial-text{
+    color:  #1F618D ;
+}
+.carousel-item{
+    padding: 7% 15%;
+}
+#menu{
+    
+    text-align: center;
+    padding: 4% 8%;
+}
+.menu-heading{
+    color: #9e2a2b;
+    width: 96%;
+    margin-bottom: 20px;
+}
+hr{
+    border-style: none;
+    border-bottom-style: dotted;
+    border-color: #1F618D;
+    border-width: 10px;
+    width: 50%;
+    height: 10%;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.zinger{
+    width: 165px;
+    border-radius: 100%;
+    margin-bottom: 10px;
+    padding: 2% 2%;
+
+}
+.double{
+    border-radius: 100%;
+    width: 158px;
+    margin-top: 9px;
+    padding: 1% 1%;
+    margin-bottom: 5px;
+
+}
+.beef{
+    width: 186px;
+}
+.chicken{
+    width: 180px;
+}
+.pri-tag{
+    padding-top: 50px;
+}
+.wing{
+    width: 180px;
+
+}
+
+#footer{
+    padding-top: 30px;
+    background-color: #2471A3;
+}
+.nugget{
+    width: 180px;
+}
+.ord{
+    margin-bottom: 50px;
+}
+.chicken-section{
+    margin-top: 15px;
+}
+.discover-h3{
+    color: #fff;
+}
+.Pepsi{
+    width: 141px;
+}
+.Sprite{
+    width: 180px;
+}
+.Fanta{
+    width: 180px;
+}
+.social{
+    margin-left: 20px;
+}
+@media (max-width: 1010px){
+    #title{
+        text-align: center;
+
+    }
+    .title-pic{
+        width: 350px;
+    }
+    
+    h1{
+        font-size: 2.5rem;
+    }
+    .title-pic{
+       margin-right: 80px;
+       
+    }
+    .pricing-colomn{
+        width: 175px;
+    }
+}
